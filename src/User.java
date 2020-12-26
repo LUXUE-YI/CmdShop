@@ -12,7 +12,7 @@ public class User {
         this.username = username;
     }
 
-    public String getPaasword() {
+    public String getPassword() {
         return password;
     }
 
